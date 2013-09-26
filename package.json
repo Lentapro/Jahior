@@ -1,0 +1,23 @@
+{
+  "name": "memio",
+  "version": "0.0.1",
+  "description": "distributed message bus",
+  "keywords": [],
+  "author": "Gonzohunter <colin.hemmings@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gonzohunter/memio.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "coffee-script": "~1.6.3",
+    "docco": "~0.6.2",
+    "nodeunit": "~0.8.1"
+  },
+  "main": "lib/memio.js"
+}
